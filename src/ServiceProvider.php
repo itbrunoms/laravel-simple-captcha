@@ -1,4 +1,5 @@
-<?php namespace Haruncpi\LaravelSimpleCaptcha;
+<?php
+namespace Itbrunoms\LaravelSimpleCaptcha;
 
 use Illuminate\Support\Facades\Validator;
 

@@ -1,5 +1,5 @@
 {
-  "name": "haruncpi/laravel-simple-captcha",
+  "name": "itbrunoms/laravel-simple-captcha",
   "description": "A laravel simple captcha package",
   "license": "cc-by-4.0",
   "keywords": [
@@ -10,8 +10,8 @@
   "type": "library",
   "authors": [
     {
-      "name": "MD.HARUN-UR-RASHID",
-      "email": "harun.cox@gmail.com"
+      "name": "Bruno Moraes",
+      "email": "contato@programadorbruno.com.br"
     }
   ],
   "minimum-stability": "dev",
@@ -24,7 +24,7 @@
       "src/helpers.php"
     ],
     "psr-4": {
-      "Haruncpi\\LaravelSimpleCaptcha\\": "src"
+      "Itbrunoms\\LaravelSimpleCaptcha\\": "src"
     }
   },
   "scripts": {
@@ -33,7 +33,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Haruncpi\\LaravelSimpleCaptcha\\ServiceProvider"
+        "Itbrunoms\\LaravelSimpleCaptcha\\ServiceProvider"
       ]
     }
   },
